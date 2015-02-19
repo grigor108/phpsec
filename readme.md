@@ -26,14 +26,20 @@ PHPSEC component is curently in alpha stage. Therefore it's unfit for use in pro
 In this repo you will find sample web application using PHPSEC component as well as database dump to use along with it. Expect wordpress plugins in the next few days.
 
 #Development roadmap
+
 ALPHA:
+
 -sample web application using component
 -database data+explanations how to use
 -wordpress plugin using at least half the components functionality
+
 BETA:
+
 -Wordpress plugin completion
 -Additional user-friendly documentation
+
 PRODUCTION-FIT:
+
 -When stable, tested and ready to deploy
 
 #Libraries used
