@@ -19,7 +19,7 @@ Please remember that:
 
 #Current status
 
-PHPSEC component is curently in alpha stage. Therefore it's unfit for use in production environment.
+PHPSEC component is curently in beta stage. Therefore it's unfit for use in production environment.
 
 #What is available in this package
 
@@ -29,18 +29,18 @@ In this repo you will find sample web application using PHPSEC component as well
 
 ALPHA:
 
--sample web application using component
--database data+explanations how to use
--wordpress plugin using at least half the components functionality
+  - sample web application using component
+  - database data+explanations how to use
+  - wordpress plugin using at least half the components functionality
 
 BETA:
 
--Wordpress plugin completion
--Additional user-friendly documentation
+  - Wordpress plugin completion
+  - Additional user-friendly documentation
 
 PRODUCTION-FIT:
 
--When stable, tested and ready to deploy
+  - When stable, tested and ready to deploy
 
 #Libraries used
 - [phpMailer] - [LGPL 2.1](http://www.gnu.org/licenses/lgpl-2.1.html)
