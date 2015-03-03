@@ -1,3 +1,4 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/grigor108/phpsec/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 # PHPSEC
 
 The purpose of this project is to create a PHP component providing tools to easily implement multi-stage multi-method authentication. It's intended as a base for plugins to various content management systems.
